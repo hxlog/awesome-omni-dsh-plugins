@@ -17,7 +17,7 @@ source:
   repository: https://github.com/hxlog/dsh-mcp-tools
   repositoryNodeId: R_kgDOVRrk5w
   subpath: null
-  commit: 237205504bee7b14b9d11c4d99b7e02552c0ecb9
+  commit: 65fc43897fec7d66d19053e21012e789dbb36dc6
 creator:
   github: hxlog
 package:
@@ -34,7 +34,7 @@ license:
   spdx: MIT
 verification:
   status: eligible
-  checkedAt: 2026-10-23T07:21:55Z
+  checkedAt: 2026-10-23T07:44:25Z
   repositoryIdentity: resolved
   smokeTest: null
 popularity:
